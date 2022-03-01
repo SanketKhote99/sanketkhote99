@@ -10,6 +10,7 @@ I am `Sanket Khote`, Cat Lover, Front end web developer from Pune, India.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 
 ## Connect with Me 🤝🏻
