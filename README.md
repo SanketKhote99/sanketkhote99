@@ -9,8 +9,8 @@ I'm Sanket and I am Full stack web developer as well as Flutter developer.
 
 ##  ⚡ Connect With Me
 
-[![Website Badge](https://img.shields.io/badge/-Sanket Khote-red?style=flat-square&logo=tor-browser&logoColor=white&link=http://demoview.epizy.com/public/)](http://demoview.epizy.com/public/)
-[![Linkedin Badge](https://img.shields.io/badge/-sanketkhote-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-khote-b95438220/)]https://www.linkedin.com/in/sanket-khote-b95438220/)
+[![Website Badge](https://img.shields.io/badge/-Coding Script-red?style=flat-square&logo=tor-browser&logoColor=white&link=http://codingscript.epizy.com/)](http://codingscript.epizy.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-sanketkhote-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-khote-b95438220/)](https://www.linkedin.com/in/sanket-khote-b95438220/)
 [![Twitter Badge](https://img.shields.io/badge/-sanketkhote99-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sanketkhote99)](https://twitter.com/sanketkhote99)
 [![Instagram Badge](https://img.shields.io/badge/-sanket.khote-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sanket.khote/)](https://instagram.com/sanket.khote)
 [![Github Badge](https://img.shields.io/badge/-Sanketkhote99-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/SanketKhote99/)](https://github.com/Sanketkhote99)
@@ -38,7 +38,7 @@ I'm Sanket and I am Full stack web developer as well as Flutter developer.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SanketKhote99&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketKhote99&hide=TeX&layout=compact&theme=dark)
 
-[![Sanket Khote's github stats](https://github-readme-stats.vercel.app/api/pin/?username=SanketKhote99&repo=Quickly&theme=dark)](https://github.com/SanketKhote99/Portfolio)
+[![Sanket Khote's github stats](https://github-readme-stats.vercel.app/api/pin/?username=SanketKhote99&repo=Portfolio&theme=dark)](https://github.com/SanketKhote99/Portfolio)
 
 
 ### Show some ❤️ by starring some of the repositories!
