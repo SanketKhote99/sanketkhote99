@@ -9,7 +9,6 @@ I'm Sanket and I am Full stack web developer as well as Flutter developer.
 
 ##  ⚡ Connect With Me
 
-[![Website Badge](https://img.shields.io/badge/-Coding Script-red?style=flat-square&logo=tor-browser&logoColor=white&link=http://codingscript.epizy.com/)](http://codingscript.epizy.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-sanketkhote-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-khote-b95438220/)](https://www.linkedin.com/in/sanket-khote-b95438220/)
 [![Twitter Badge](https://img.shields.io/badge/-sanketkhote99-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sanketkhote99)](https://twitter.com/sanketkhote99)
 [![Instagram Badge](https://img.shields.io/badge/-sanket.khote-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sanket.khote/)](https://instagram.com/sanket.khote)
